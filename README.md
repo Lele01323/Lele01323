@@ -6,7 +6,7 @@
 - 😄 Pronouns: ela/dela
 - ⚡ Áreas de Interesse: Ciência de Dados, Desenvolvimento
 
-<div>
+<div class="justify-content-center">
   <a href="https://github.com/Lele01323">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lele01323&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lele01323&layout=compact&langs_count=7&theme=dracula"/>
