@@ -1,7 +1,7 @@
 ### Oi! Sou Letícia Oliveira 👋
 
 - 🔭 Atualmente trabalho com front-end 
-- 🌱 Estudante de Análise e Desenvolvimento de Sistemas na FATEC Bragança
+- 🌱 Estudante de Análise e Desenvolvimento de Sistemas na FATEC 
 - 📫 Contate-me pelo email: leticia.ioliveira09@gmail.com
 - 😄 Pronouns: ela/dela
 - ⚡ Áreas de Interesse: Ciência de Dados, Desenvolvimento
