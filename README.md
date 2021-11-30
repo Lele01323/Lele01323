@@ -2,7 +2,7 @@
 
 - 🔭 Atualmente trabalho com front-end 
 - 🌱 Estudante de Análise e Desenvolvimento de Sistemas na FATEC 
-- 📫 Contate-me pelo email: leticia.ioliveira09@gmail.com
+- 📫 Contate-me pelo email: leticia_oliveira09@hotmail.com ou leticia.ioliveira09@gmail.com
 - 😄 Pronouns: ela/dela
 - ⚡ Áreas de Interesse: Ciência de Dados, Desenvolvimento
 
