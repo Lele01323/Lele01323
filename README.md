@@ -1,10 +1,10 @@
 ### Oi! Sou Letícia Oliveira 👋
 
 - 🔭 Atualmente trabalho com front-end 
-- 🌱 Estudante de Análise e Desenvolvimento de Sistemas na FATEC 
-- 📫 Contate-me pelo email: leticia_oliveira09@hotmail.com ou leticia.ioliveira09@gmail.com
+- 🌱 Formada em Análise e Desenvolvimento de Sistemas pela FATEC de Bragança Paulista
+- 📫 Contate-me pelo email: leticia_oliveira09@hotmail.com
 - 😄 Pronouns: ela/dela
-- ⚡ Áreas de Interesse: Cloud, Cybersecurity, Ciência de Dados e Desenvolvimento.
+- ⚡ Áreas de Interesse: Cloud, Cybersecurity, Ciência de Dados e Desenvolvimento
 
 <div>
   <a href="https://github.com/Lele01323">
